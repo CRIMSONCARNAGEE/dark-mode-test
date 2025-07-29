@@ -4,6 +4,7 @@
 // elChangeLogoTextButton.addEventListener("click" , function () {
 //  ellogolink.textContent = "boshqa matn";
 // });
+// Dark mode
 const elDarkModeButton = document.querySelector("site-header-dark");
 
 elDarkModeButton.addEventListener("click", function(){
